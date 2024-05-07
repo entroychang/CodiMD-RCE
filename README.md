@@ -20,5 +20,5 @@ python3 exploit.py -u url --headers headers
 python3 exploit.py -u 'http://ip/note_id' --headers 'Cookie: connect.sid=connect.sid;'
 ```
 
-* Use `R` command to recover file content. Just a note that the code will only read a filename in `files` folder. 
+* Use `R` command to recover file content. Just a note that the code will only read filename in `files` folder. 
 * Demo: https://www.youtube.com/watch?v=G4P6UF2vTJo&ab_channel=EntroyC
