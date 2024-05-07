@@ -1,5 +1,8 @@
 # CodiMD RCE
 
+This is a DEVCORE Intern project. 
+https://hackmd.io/@entroy/BJizrC8wh
+
 ## Usage
 
 ```bash=
